@@ -4,7 +4,7 @@ exercises of the Udemy course - Java Programming Masterclass for Software Develo
 <h1 align="center">Hi 👋, I'm Danuja Jayasuriya</h1>
 <h3 align="center">A Software Engineering student form Sri Lanka</h3>
 
-- 🌱 I’m currently learning **C,C++ and Java**
+- 🌱 I’m currently learning **C,C++ and Java and I have experience in MERN stack developments**
 
 - 💬 Ask me about **Coding Exercises**
 
